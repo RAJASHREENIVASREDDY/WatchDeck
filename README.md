@@ -10,7 +10,7 @@ WatchDeck is a modern, responsive front-end project that replicates a YouTube-st
 
 ## 📸 Preview
 
-![WatchDeck Preview](./images/preview.png)
+![WatchDeck Preview](./WatchDeck/images/preview.png)
 
 ## 🚀 Features
 
